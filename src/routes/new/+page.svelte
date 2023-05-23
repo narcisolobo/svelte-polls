@@ -8,5 +8,9 @@
 	}
 </script>
 
+<svelte:head>
+	<title>Svelte Polls - Create Poll</title>
+</svelte:head>
+
 <h1 class="text-2xl mb-4">Create a Poll</h1>
 <PollForm on:add-poll={handleAdd} />

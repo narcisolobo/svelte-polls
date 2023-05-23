@@ -1,7 +1,6 @@
 <script>
 	import '../app.scss';
 	import Footer from '@/components/Footer.svelte';
-	import Hero from '@/components/Hero.svelte';
 	import Tabs from '@/components/Tabs.svelte';
 </script>
 
